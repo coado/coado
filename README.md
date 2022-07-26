@@ -16,8 +16,4 @@ I'm interested in web development and blockchain. I love building decentralize a
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ## Contact me: 
-  
-  [![LinkedIn Badge](https://img.shields.io/badge/-Dawid_Malecki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-ma%C5%82ecki-02b809217/)
-  [![Mail Badge](https://img.shields.io/badge/-dawid.malecki21@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dawid.malecki21@gmail.com)
+
